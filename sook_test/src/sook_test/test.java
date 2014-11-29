@@ -7,5 +7,6 @@ public class test {
 	public static void main(String[] args){
 		System.out.println("Hello SoGong and Git!");
 	
+		System.out.println("hello everyone! ");
 	}
 }
